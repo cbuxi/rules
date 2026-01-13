@@ -1,12 +1,12 @@
 # 英国区规则列表
+DOMAIN-KEYWORD,-uk.tiktok
+DOMAIN-KEYWORD,tiktokcdn-eu.com
 DOMAIN,seller-uk.tiktok.com
 DOMAIN,seller-uk-accounts.tiktok.com
 DOMAIN,affiliate-uk.tiktok.com
-DOMAIN-SUFFIX,tiktokcdn-eu.com
 DOMAIN,partner-uk.tiktok.com
 DOMAIN,business-uk.tiktok.com
 DOMAIN-SUFFIX,tiktok.co.uk
 DOMAIN-SUFFIX,evri.com
 DOMAIN-SUFFIX,yodel.co.uk
 DOMAIN-SUFFIX,dpd.co.uk
-DOMAIN-KEYWORD,-uk.tiktok
