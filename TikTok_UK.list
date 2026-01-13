@@ -1,6 +1,7 @@
 # 英国区规则列表
 DOMAIN-KEYWORD,-uk.tiktok
 DOMAIN-KEYWORD,tiktokcdn-eu.com
+DOMAIN-KEYWORD,tiktokcdn-uk
 DOMAIN,seller-uk.tiktok.com
 DOMAIN,seller-uk-accounts.tiktok.com
 DOMAIN,affiliate-uk.tiktok.com
